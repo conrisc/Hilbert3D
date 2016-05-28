@@ -11,6 +11,7 @@ s — rozmiar obrazka (w pt)
 u — długość krawędzi sześcianu w który jest wpisana krzywa (w pt)
 d — odegłość obserwatora od płaszczyzny rzutu (w pt)
 (x,y,z) — współrzędne początku układu współrzędnych obiektu (w pt)
+
 alpha — kąt obrotu (w stopniach) układu współrzędnych obiektu względem osi OX
 beta — kąt obrotu (w stopniach) układu współrzędnych obiektu względem osi OY
 
