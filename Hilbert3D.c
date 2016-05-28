@@ -1,4 +1,4 @@
-//Konrad Cielecki 273278
+//Konrad Cielecki
 //Pracownia_1 2016
 
 #include <stdio.h>
