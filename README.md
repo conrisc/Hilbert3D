@@ -1,8 +1,8 @@
 # Hilbert3D
 [C] Program generating a 3D Hilbert curve
 
-Program rysujący krzywą Hilberta w 3D.  
-Generuje on plik .eps (można przekonwertować na .pdf) przedstawiający krzywą Hilberta w 3D. 
+Program rysujący krzywą Hilberta w 3D.
+Generuje on plik .eps (można przekonwertować na .pdf) przedstawiający krzywą Hilberta w 3D.
 
 Program przyjmuje 9 argumentów w podanej kolejności: <b>n s u d x y z aplha beta</b>
 gdzie:
