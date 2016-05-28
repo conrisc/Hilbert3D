@@ -25,3 +25,5 @@ Przykładowe dane wejściowe(jedna linijka == jeden przyklad):
 ![example_1](img/SC-1.png)
 
 ![example_2](img/SC-2.png)
+
+![example_3](img/SC-3.png)
