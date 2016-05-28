@@ -4,7 +4,7 @@
 Program rysujący krzywą Hilberta w 3D.  
 Generuje on plik .eps (można przekonwertować na .pdf) przedstawiający krzywą Hilberta w 3D.
 
-Program przyjmuje 9 argumentów w podanej kolejności: <b>n s u d x y z aplha beta</b>  
+Program przyjmuje 9 argumentów w podanej kolejności: <b><i>n s u d x y z aplha beta<i></b>  
 gdzie:  
 n — rząd krzywej  
 s — rozmiar obrazka (w pt)  
